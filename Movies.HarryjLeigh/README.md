@@ -1,4 +1,4 @@
-# MoviesMvc & Recipes MVC Solution
+# Movies & Recipes MVC Solution
 
 This repository contains two ASP.NET Core MVC projects that demonstrate how to build data-driven web applications for tracking both movie collections and recipe databases using Entity Framework Core, Razor views.
 ## Table of Contents
